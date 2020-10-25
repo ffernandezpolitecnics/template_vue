@@ -1,0 +1,12 @@
+.floating-action-button {
+    position: fixed;
+    /* Footer height */
+    bottom: 65px;
+    right: 65px;
+    cursor: pointer;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    z-index: 1000;
+    background-color: blue;
+}
